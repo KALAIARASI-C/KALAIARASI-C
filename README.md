@@ -35,13 +35,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KALAIARASI-C&theme=tokyonight)
 
-
-## 🚀 Projects
-
-- 📚 Library Management System (React)
-- 🎯 Smart Interview Preparation Portal
-- 👥 CRM System
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalaiarasi-c-231105k)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalaiarasidurgadevi@gmail.com)
