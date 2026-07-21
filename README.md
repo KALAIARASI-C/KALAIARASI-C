@@ -7,9 +7,26 @@
 
 ## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,react,js,html,css,bootstrap,nodejs,mysql,git,github,vscode" />
-</p>
+### 👨‍💻 Languages
+Java • C • C++ • Python • JavaScript
+
+### 🎨 Frontend
+HTML5 • CSS3 • Bootstrap • React.js
+
+### ⚙️ Backend
+Spring Boot • Node.js • PHP
+
+### 🗄️ Database
+MySQL • Spring Data JPA
+
+### 🔧 Version Control
+Git • GitHub
+
+### 🚀 DevOps & Cloud
+Docker • GitHub Actions • Linux • AWS
+
+### 💻 Development Tools
+IntelliJ IDEA • VS Code • Vite
 
 ## 📊 GitHub Stats
 
@@ -32,5 +49,6 @@
 
 - 📧 Email: kalaiarasidurgadevi@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/kalaiarasi-c-231105k
+- 💻 GitHub: https://github.com/KALAIARASI-C
 
 ⭐ Thanks for visiting my profile!
