@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Kalaiarasi C
 
-<!--
-**KALAIARASI-C/KALAIARASI-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me
+🎓 B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+💻 Aspiring Java Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Java
+- Spring Boot
+- React.js
+- MySQL
+- JavaScript
+
+## 🛠️ Skills
+
+- Java
+- C
+- C++
+- HTML
+- CSS
+- JavaScript
+- React.js
+- MySQL
+- Git
+- GitHub
+
+## 🚀 Projects
+
+- 📚 Library Management System (React)
+- 🎯 Smart Interview Preparation Portal
+- 👥 CRM System
+
+## 📫 Connect with Me
+
+- 📧 Email: kalaiarasidurgadevi@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/kalaiarasi-c-231105k
+
+⭐ Thanks for visiting my profile!
