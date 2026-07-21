@@ -1,7 +1,6 @@
 # Hi 👋, I'm Kalaiarasi C
 
-## 💫 About Me
-🎓 B.Tech Information Technology Student
+## Java Full Stack Developer | React |🎓 B.Tech Information Technology Student
 
 🎯 Passionate about building scalable Java Full Stack applications with clean code, modern technologies, and real-world problem-solving.
 
@@ -16,13 +15,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-### Backend
+### Database & Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Version Control
 
@@ -41,10 +36,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KALAIARASI-C&theme=tokyonight)
 
 
-## 💻 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KALAIARASI-C&layout=compact&theme=tokyonight)
-
 ## 🚀 Projects
 
 - 📚 Library Management System (React)
@@ -55,5 +46,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalaiarasi-c-231105k)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalaiarasidurgadevi@gmail.com)
 
-
-⭐ Thanks for visiting my profile!
