@@ -12,7 +12,17 @@
 - MySQL
 - JavaScript
 
-## 🛠️ Skills
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,react,js,html,css,bootstrap,nodejs,mysql,git,github,vscode" />
+</p>
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=KALAIARASI-C&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=KALAIARASI-C&theme=tokyonight)
 
 - Java
 - C
@@ -24,6 +34,10 @@
 - MySQL
 - Git
 - GitHub
+
+## 💻 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KALAIARASI-C&layout=compact&theme=tokyonight)
 
 ## 🚀 Projects
 
