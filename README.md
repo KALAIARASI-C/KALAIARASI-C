@@ -3,14 +3,7 @@
 ## 💫 About Me
 🎓 B.Tech Information Technology Student
 
-💻 Aspiring Java Full Stack Developer
-
-🌱 Currently Learning
-- Java
-- Spring Boot
-- React.js
-- MySQL
-- JavaScript
+🎯 Passionate about building scalable Java Full Stack applications with clean code, modern technologies, and real-world problem-solving.
 
 ## 💻 Tech Stack
 
@@ -24,16 +17,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KALAIARASI-C&theme=tokyonight)
 
-- Java
-- C
-- C++
-- HTML
-- CSS
-- JavaScript
-- React.js
-- MySQL
-- Git
-- GitHub
 
 ## 💻 Most Used Languages
 
